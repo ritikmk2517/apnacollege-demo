@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first Git repositary
-author - Ritik yadavv
-
+this is my first Git repositary<br>
+author - Ritik yadavv(apna college)<br>
+name ritik yadav
